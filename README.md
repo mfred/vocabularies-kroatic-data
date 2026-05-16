@@ -1,7 +1,7 @@
 # vocabularies-kroatic-data
 
 Daten-Repository für den **Vokabeltrainer Deutsch ↔ Kroatisch**
-([App-Repo: vocabularies-kroatic](https://github.com/<owner>/vocabularies-kroatic)).
+([App-Repo: vocabularies-kroatic](https://github.com/mfred/vocabularies-kroatic)).
 
 Enthält die thematischen Lektionen als versionierte JSON-Dateien.
 Die App lädt diese Inhalte zur Laufzeit, sodass neue Vokabeln **ohne
@@ -33,14 +33,14 @@ CHANGELOG.md                   ← Datenänderungen pro Version
 Die App ruft beim Start ab:
 
 ```
-https://raw.githubusercontent.com/<owner>/vocabularies-kroatic-data/main/v1/manifest.json
+https://raw.githubusercontent.com/mfred/vocabularies-kroatic-data/main/v1/manifest.json
 ```
 
 und folgt von dort auf die einzelnen Lektionsdateien. Versionierung
 funktioniert pro Lektion — nur geänderte Lektionen werden neu geladen.
 
 Details: siehe `SCHEMA.md` und die App-Dokumentation
-[PROJECT.md §4 (Externes Datenschema)](https://github.com/<owner>/vocabularies-kroatic/blob/main/PROJECT.md).
+[PROJECT.md §4 (Externes Datenschema)](https://github.com/mfred/vocabularies-kroatic/blob/main/PROJECT.md).
 
 ## Datenmodell
 

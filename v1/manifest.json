@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "dataVersion": "2026-05-16",
   "generatedAt": "2026-05-16T00:00:00Z",
-  "baseUrl": "https://raw.githubusercontent.com/<owner>/vocabularies-kroatic-data/main/v1/",
+  "baseUrl": "https://raw.githubusercontent.com/mfred/vocabularies-kroatic-data/main/v1/",
   "languages": { "source": "de-DE", "target": "hr-HR" },
   "lessons": [
     {
@@ -145,7 +145,7 @@
     {
       "id": "own-cc-by-4.0",
       "name": "vocabularies-kroatic-data (eigene Kuration)",
-      "url": "https://github.com/<owner>/vocabularies-kroatic-data",
+      "url": "https://github.com/mfred/vocabularies-kroatic-data",
       "license": "CC-BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     }
