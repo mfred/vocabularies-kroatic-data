@@ -1,0 +1,51 @@
+Creative Commons Attribution 4.0 International License (CC-BY 4.0)
+=================================================================
+
+Copyright (c) 2026 vocabularies-kroatic-data contributors
+
+This work — the curated vocabulary content of this repository
+(German ↔ Croatian word lists, phrase lists, sentence selections,
+IPA transcriptions, lesson structure, and accompanying documentation) —
+is licensed under the Creative Commons Attribution 4.0 International
+License (CC-BY 4.0).
+
+You are free to:
+
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material
+            for any purpose, even commercially.
+
+Under the following terms:
+
+  * Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made. You may do so in
+    any reasonable manner, but not in any way that suggests the licensor
+    endorses you or your use.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+THIRD-PARTY CONTENT
+-------------------
+
+Some sentence items in this repository are derived from the Tatoeba
+Project (https://tatoeba.org), licensed under CC-BY 2.0. Such items
+carry a "license" block with "sourceId": "tatoeba-cc-by-2.0" and the
+original Tatoeba sentence IDs. The aggregate attribution list is
+maintained in `licenses/attribution.json`. Tatoeba terms apply to
+those items in addition to CC-BY 4.0 for the surrounding lesson
+structure.
+
+CC-BY 2.0 full legal text: https://creativecommons.org/licenses/by/2.0/legalcode
+
+---
+
+ATTRIBUTION SUGGESTION
+----------------------
+
+When redistributing or building upon this work, please include:
+
+   "Vocabulary data from vocabularies-kroatic-data (CC-BY 4.0),
+    https://github.com/<owner>/vocabularies-kroatic-data
+    — derived sentence items from the Tatoeba Project (CC-BY 2.0)."
