@@ -12,26 +12,23 @@
   "stages": [
     {
       "id": "words",
-      "order": 1,
+      "type": "vocabulary",
       "label": {
-        "de": "Wörter",
-        "hr": "Riječi"
+        "de": "Einzelwörter"
       }
     },
     {
       "id": "phrases",
-      "order": 2,
+      "type": "phrase",
       "label": {
-        "de": "Phrasen",
-        "hr": "Fraze"
+        "de": "Wortgruppen"
       }
     },
     {
       "id": "sentences",
-      "order": 3,
+      "type": "sentence",
       "label": {
-        "de": "Sätze",
-        "hr": "Rečenice"
+        "de": "Sätze"
       }
     }
   ],

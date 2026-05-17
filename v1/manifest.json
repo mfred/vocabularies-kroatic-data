@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "dataVersion": "2026-05-17",
-  "generatedAt": "2026-05-17T00:00:00Z",
+  "generatedAt": "2026-05-17T12:30:00Z",
   "baseUrl": "https://raw.githubusercontent.com/mfred/vocabularies-kroatic-data/main/v1/",
   "languages": { "source": "de-DE", "target": "hr-HR" },
   "lessons": [
@@ -146,8 +146,8 @@
       "prerequisites": [],
       "tags": ["advanced", "vocab-extension"],
       "file": "lessons/advanced.json",
-      "sha256": "e5969d8196f8194573f11559e01cd573e0f7510f9ffad8bff9271c43af187612",
-      "sizeBytes": 63398
+      "sha256": "ba94224c06a3af1924d1ed6906d82fd48e79a242b0cfd1bcdc414ccb1a6c999a",
+      "sizeBytes": 63357
     }
   ],
   "globalLicenses": [
