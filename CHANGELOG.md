@@ -3,6 +3,38 @@
 Inhalts- und Schema-Änderungen am Vokabel-Datensatz. Format basiert auf
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/).
 
+## [1.2.0] – 2026-05-17
+
+### Added — neue Lektion `advanced` (286 Items)
+
+Eigene Vokabel-Sammlung des Maintainers (Google Sheet) gegen die
+bestehenden 8 Lektionen abgeglichen, **286 noch nicht enthaltene
+Einträge** in einer neuen 9. Lektion `advanced` (Titel:
+„Fortgeschritten / Napredno") zusammengefasst.
+
+| Stage | Items |
+|---|---:|
+| words     | 196 |
+| phrases   | 31  |
+| sentences | 59  |
+| **Σ**     | **286** |
+
+**Schwierigkeits-Mapping** der Sheet-Skala 1–3 auf die Repo-Skala 1–5
+nach `f(x) = 2x − 1` (sheet 1 → 1, 2 → 3, 3 → 5). Verteilung in der
+neuen Lektion: diff 1: 63, diff 3: 84, diff 5: 139.
+
+**Inhaltsspanne**: Farben, Adjektive und Alltagsobjekte (`Crveno`,
+`Veliko`, `Auto`, `Knjiga`) auf diff 1; Kleidung, Möbel, Gesundheit
+(`Cipele`, `Bolnica`, `Lijek`) auf diff 3; abstrakte Begriffe
+(`Znanost`, `Pravda`, `Odgovornost`) und komplexe Sätze
+(`Gospodarska situacija se značajno poboljšala`) auf diff 5.
+
+Aggregierte `difficulty` der Lektion: 4. Lektion enthält keine
+IPA-/POS-/Notiz-Felder — diese werden bei einem späteren
+Inhaltspflege-Lauf nachgepflegt.
+
+**Gesamtstand**: 9 Lektionen, 1 091 Items (805 → 1 091, +35,5 %).
+
 ## [1.1.0] – 2026-05-16
 
 ### Changed — Lektionsumfang massiv erweitert

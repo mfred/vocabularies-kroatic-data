@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "dataVersion": "2026-05-16",
-  "generatedAt": "2026-05-16T00:00:00Z",
+  "dataVersion": "2026-05-17",
+  "generatedAt": "2026-05-17T00:00:00Z",
   "baseUrl": "https://raw.githubusercontent.com/mfred/vocabularies-kroatic-data/main/v1/",
   "languages": { "source": "de-DE", "target": "hr-HR" },
   "lessons": [
@@ -132,6 +132,22 @@
       "file": "lessons/tourism.json",
       "sha256": "6bd2e3933e64826fd38a5bebd802e10da9ebc6e215a9522209a81021fac768d8",
       "sizeBytes": 29170
+    },
+    {
+      "id": "advanced",
+      "version": "1.0.0",
+      "title": { "de": "Fortgeschritten", "hr": "Napredno" },
+      "description": { "de": "Erweiterter Wortschatz und anspruchsvolle Sätze aus Alltag, Gesellschaft, Politik, Wirtschaft und Gefühlen. Aufgenommen aus eigener Sammlung." },
+      "order": 9,
+      "difficulty": 4,
+      "wordCount": 196,
+      "phraseCount": 31,
+      "sentenceCount": 59,
+      "prerequisites": [],
+      "tags": ["advanced", "vocab-extension"],
+      "file": "lessons/advanced.json",
+      "sha256": "e5969d8196f8194573f11559e01cd573e0f7510f9ffad8bff9271c43af187612",
+      "sizeBytes": 63398
     }
   ],
   "globalLicenses": [
