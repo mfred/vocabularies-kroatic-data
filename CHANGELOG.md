@@ -3,6 +3,47 @@
 Inhalts- und Schema-Änderungen am Vokabel-Datensatz. Format basiert auf
 [Keep a Changelog](https://keepachangelog.com/de/1.1.0/).
 
+## [1.3.0] – 2026-05-20
+
+### Added — Wortschatzerweiterung über alle Themen (+531 Items)
+
+Recherche typischer Kroatisch-für-Anfänger-Quellen (Croaticum FFZG
+„Hrvatski za početnike", Bilic „Ja govorim hrvatski 1", Pinhok
+100/1000 Croatian, Loecsen Reisewortschatz, Talkpal A1) — Lücken
+gegen den Bestand gefüllt.
+
+**Bestehende Lektionen erweitert** (Versionen → 1.2.0; `advanced` → 1.1.0):
+
+| Lektion | + Items | neue Gesamtzahl |
+|---|---:|---:|
+| greetings    | +38 | 138 |
+| introduction | +41 | 146 |
+| numbers-time | +41 | 141 |
+| family       | +36 | 136 |
+| shopping     | +39 | 139 |
+| restaurant   | +37 | 137 |
+| traffic      | +45 | 145 |
+| tourism      | +46 | 146 |
+| advanced     | +43 | 329 |
+
+Schwerpunkte: Smalltalk-/Emotionsvokabular (Greetings), Berufe und
+Selbstvorstellung (Introduction), Ordinalzahlen + Uhrzeit-Idiome
+(Numbers), Stieffamilie + Beziehungsstatus (Family), Nicht-Lebensmittel-
+Läden + Größen (Shopping), Reservierung + Allergien + Croatian-Specialties
+(Restaurant), Präpositionen + Transit-Verben (Traffic), Notfall +
+Strandausrüstung + Ortsnamen (Tourism), Konnektoren + Modal-`bih`-Formen
+(Advanced).
+
+**Drei neue Lektionen angelegt** (typische A1-Themen):
+
+| Lektion | Order | Items |
+|---|---:|---:|
+| `colors` — Farben & Beschreibung | 10 | 50 |
+| `body-health` — Körper & Gesundheit | 11 | 56 |
+| `daily-life` — Alltag, Wetter & Hobbys | 12 | 59 |
+
+**Σ neue Items**: 531; App-Wortschatz wächst von ~1091 auf ~1622.
+
 ## [1.2.0] – 2026-05-17
 
 ### Added — neue Lektion `advanced` (286 Items)
