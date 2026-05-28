@@ -135,7 +135,7 @@
     },
     {
       "id": "advanced",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "title": { "de": "Fortgeschritten", "hr": "Napredno" },
       "description": { "de": "Erweiterter Wortschatz und anspruchsvolle Sätze aus Alltag, Gesellschaft, Politik, Wirtschaft und Gefühlen. Aufgenommen aus eigener Sammlung." },
       "order": 9,
@@ -146,8 +146,8 @@
       "prerequisites": [],
       "tags": ["advanced", "vocab-extension"],
       "file": "lessons/advanced.json",
-      "sha256": "ba94224c06a3af1924d1ed6906d82fd48e79a242b0cfd1bcdc414ccb1a6c999a",
-      "sizeBytes": 63357
+      "sha256": "cccf43e7d881535f0e3db279b4a09cfd83eb8dc0dea1d93266b023f96a02fca8",
+      "sizeBytes": 73809
     }
   ],
   "globalLicenses": [

@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "lessonId": "advanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": {
     "de": "Fortgeschritten",
     "hr": "Napredno"
@@ -42,7 +42,8 @@
         "text": "Mann"
       },
       "hr": {
-        "text": "Muškarac"
+        "text": "Muškarac",
+        "ipa": "ˈmuʃkarats"
       }
     },
     {
@@ -54,7 +55,8 @@
         "text": "Rot"
       },
       "hr": {
-        "text": "Crveno"
+        "text": "Crveno",
+        "ipa": "ˈtsr̩ʋeno"
       }
     },
     {
@@ -66,7 +68,8 @@
         "text": "Blau"
       },
       "hr": {
-        "text": "Plavo"
+        "text": "Plavo",
+        "ipa": "ˈplaʋo"
       }
     },
     {
@@ -78,7 +81,8 @@
         "text": "Grün"
       },
       "hr": {
-        "text": "Zeleno"
+        "text": "Zeleno",
+        "ipa": "ˈzeleno"
       }
     },
     {
@@ -90,7 +94,8 @@
         "text": "Gelb"
       },
       "hr": {
-        "text": "Žuto"
+        "text": "Žuto",
+        "ipa": "ˈʒuto"
       }
     },
     {
@@ -102,7 +107,8 @@
         "text": "Schwarz"
       },
       "hr": {
-        "text": "Crno"
+        "text": "Crno",
+        "ipa": "ˈtsr̩no"
       }
     },
     {
@@ -114,7 +120,8 @@
         "text": "Weiß"
       },
       "hr": {
-        "text": "Bijelo"
+        "text": "Bijelo",
+        "ipa": "ˈbijelo"
       }
     },
     {
@@ -126,7 +133,8 @@
         "text": "Auto"
       },
       "hr": {
-        "text": "Auto"
+        "text": "Auto",
+        "ipa": "ˈauto"
       }
     },
     {
@@ -138,7 +146,8 @@
         "text": "Schule"
       },
       "hr": {
-        "text": "Škola"
+        "text": "Škola",
+        "ipa": "ˈʃkola"
       }
     },
     {
@@ -150,7 +159,8 @@
         "text": "Buch"
       },
       "hr": {
-        "text": "Knjiga"
+        "text": "Knjiga",
+        "ipa": "ˈkɲiɡa"
       }
     },
     {
@@ -162,7 +172,8 @@
         "text": "Tür"
       },
       "hr": {
-        "text": "Vrata"
+        "text": "Vrata",
+        "ipa": "ˈʋrata"
       }
     },
     {
@@ -174,7 +185,8 @@
         "text": "Groß"
       },
       "hr": {
-        "text": "Veliko"
+        "text": "Veliko",
+        "ipa": "ˈʋeliko"
       }
     },
     {
@@ -186,7 +198,8 @@
         "text": "Neu"
       },
       "hr": {
-        "text": "Novo"
+        "text": "Novo",
+        "ipa": "ˈnoʋo"
       }
     },
     {
@@ -198,7 +211,8 @@
         "text": "Alt"
       },
       "hr": {
-        "text": "Staro"
+        "text": "Staro",
+        "ipa": "ˈstaro"
       }
     },
     {
@@ -210,7 +224,8 @@
         "text": "Schön"
       },
       "hr": {
-        "text": "Lijepo"
+        "text": "Lijepo",
+        "ipa": "ˈlijepo"
       }
     },
     {
@@ -222,7 +237,8 @@
         "text": "Hässlich"
       },
       "hr": {
-        "text": "Ružno"
+        "text": "Ružno",
+        "ipa": "ˈruʒno"
       }
     },
     {
@@ -234,7 +250,8 @@
         "text": "Hungrig"
       },
       "hr": {
-        "text": "Gladan"
+        "text": "Gladan",
+        "ipa": "ˈɡladan"
       }
     },
     {
@@ -246,7 +263,8 @@
         "text": "Durstig"
       },
       "hr": {
-        "text": "Žedan"
+        "text": "Žedan",
+        "ipa": "ˈʒedan"
       }
     },
     {
@@ -258,7 +276,8 @@
         "text": "Sein"
       },
       "hr": {
-        "text": "Biti"
+        "text": "Biti",
+        "ipa": "ˈbiti"
       }
     },
     {
@@ -270,7 +289,8 @@
         "text": "Haben"
       },
       "hr": {
-        "text": "Imati"
+        "text": "Imati",
+        "ipa": "ˈimati"
       }
     },
     {
@@ -282,7 +302,8 @@
         "text": "Arbeiten / Machen"
       },
       "hr": {
-        "text": "Raditi"
+        "text": "Raditi",
+        "ipa": "ˈraditi"
       }
     },
     {
@@ -294,7 +315,8 @@
         "text": "Schlafen"
       },
       "hr": {
-        "text": "Spavati"
+        "text": "Spavati",
+        "ipa": "ˈspaʋati"
       }
     },
     {
@@ -306,7 +328,8 @@
         "text": "Essen"
       },
       "hr": {
-        "text": "Jesti"
+        "text": "Jesti",
+        "ipa": "ˈjesti"
       }
     },
     {
@@ -318,7 +341,8 @@
         "text": "Trinken"
       },
       "hr": {
-        "text": "Piti"
+        "text": "Piti",
+        "ipa": "ˈpiti"
       }
     },
     {
@@ -330,7 +354,8 @@
         "text": "Sehen"
       },
       "hr": {
-        "text": "Vidjeti"
+        "text": "Vidjeti",
+        "ipa": "ˈʋidjeti"
       }
     },
     {
@@ -342,7 +367,8 @@
         "text": "Hören"
       },
       "hr": {
-        "text": "Čuti"
+        "text": "Čuti",
+        "ipa": "ˈtʃuti"
       }
     },
     {
@@ -354,7 +380,8 @@
         "text": "Sprechen"
       },
       "hr": {
-        "text": "Govoriti"
+        "text": "Govoriti",
+        "ipa": "ˈɡoʋoriti"
       }
     },
     {
@@ -366,7 +393,8 @@
         "text": "Wer"
       },
       "hr": {
-        "text": "Tko"
+        "text": "Tko",
+        "ipa": "tko"
       }
     },
     {
@@ -378,7 +406,8 @@
         "text": "Was"
       },
       "hr": {
-        "text": "Što"
+        "text": "Što",
+        "ipa": "ʃto"
       }
     },
     {
@@ -390,7 +419,8 @@
         "text": "Wo"
       },
       "hr": {
-        "text": "Gdje"
+        "text": "Gdje",
+        "ipa": "ɡdje"
       }
     },
     {
@@ -402,7 +432,8 @@
         "text": "Wann"
       },
       "hr": {
-        "text": "Kada"
+        "text": "Kada",
+        "ipa": "ˈkada"
       }
     },
     {
@@ -414,7 +445,8 @@
         "text": "Warum"
       },
       "hr": {
-        "text": "Zašto"
+        "text": "Zašto",
+        "ipa": "ˈzaʃto"
       }
     },
     {
@@ -426,7 +458,8 @@
         "text": "Wie"
       },
       "hr": {
-        "text": "Kako"
+        "text": "Kako",
+        "ipa": "ˈkako"
       }
     },
     {
@@ -438,7 +471,8 @@
         "text": "Wie viel"
       },
       "hr": {
-        "text": "Koliko"
+        "text": "Koliko",
+        "ipa": "ˈkoliko"
       }
     },
     {
@@ -450,7 +484,8 @@
         "text": "Urlaub"
       },
       "hr": {
-        "text": "Odmor"
+        "text": "Odmor",
+        "ipa": "ˈodmor"
       }
     },
     {
@@ -462,7 +497,8 @@
         "text": "Bank"
       },
       "hr": {
-        "text": "Banka"
+        "text": "Banka",
+        "ipa": "ˈbanka"
       }
     },
     {
@@ -474,7 +510,8 @@
         "text": "Schuhe"
       },
       "hr": {
-        "text": "Cipele"
+        "text": "Cipele",
+        "ipa": "ˈtsipele"
       }
     },
     {
@@ -486,7 +523,8 @@
         "text": "Kleidung"
       },
       "hr": {
-        "text": "Odjeća"
+        "text": "Odjeća",
+        "ipa": "ˈodjetɕa"
       }
     },
     {
@@ -498,7 +536,8 @@
         "text": "T-Shirt"
       },
       "hr": {
-        "text": "Majica"
+        "text": "Majica",
+        "ipa": "ˈmajitsa"
       }
     },
     {
@@ -510,7 +549,8 @@
         "text": "Hose"
       },
       "hr": {
-        "text": "Hlače"
+        "text": "Hlače",
+        "ipa": "ˈxlatʃe"
       }
     },
     {
@@ -522,7 +562,8 @@
         "text": "Jacke"
       },
       "hr": {
-        "text": "Jakna"
+        "text": "Jakna",
+        "ipa": "ˈjakna"
       }
     },
     {
@@ -534,7 +575,8 @@
         "text": "Kleid"
       },
       "hr": {
-        "text": "Haljina"
+        "text": "Haljina",
+        "ipa": "ˈxaʎina"
       }
     },
     {
@@ -546,7 +588,8 @@
         "text": "Krankenhaus"
       },
       "hr": {
-        "text": "Bolnica"
+        "text": "Bolnica",
+        "ipa": "ˈbolnitsa"
       }
     },
     {
@@ -558,7 +601,8 @@
         "text": "Medikament"
       },
       "hr": {
-        "text": "Lijek"
+        "text": "Lijek",
+        "ipa": "ˈlijek"
       }
     },
     {
@@ -570,7 +614,8 @@
         "text": "Schmerz"
       },
       "hr": {
-        "text": "Bol"
+        "text": "Bol",
+        "ipa": "bol"
       }
     },
     {
@@ -582,7 +627,8 @@
         "text": "Gesundheit"
       },
       "hr": {
-        "text": "Zdravlje"
+        "text": "Zdravlje",
+        "ipa": "ˈzdraʋʎe"
       }
     },
     {
@@ -594,7 +640,8 @@
         "text": "Körper"
       },
       "hr": {
-        "text": "Tijelo"
+        "text": "Tijelo",
+        "ipa": "ˈtijelo"
       }
     },
     {
@@ -606,7 +653,8 @@
         "text": "Kopf"
       },
       "hr": {
-        "text": "Glava"
+        "text": "Glava",
+        "ipa": "ˈɡlaʋa"
       }
     },
     {
@@ -618,7 +666,8 @@
         "text": "Arm / Hand"
       },
       "hr": {
-        "text": "Ruka"
+        "text": "Ruka",
+        "ipa": "ˈruka"
       }
     },
     {
@@ -630,7 +679,8 @@
         "text": "Bein / Fuß"
       },
       "hr": {
-        "text": "Noga"
+        "text": "Noga",
+        "ipa": "ˈnoɡa"
       }
     },
     {
@@ -642,7 +692,8 @@
         "text": "Auge"
       },
       "hr": {
-        "text": "Oko"
+        "text": "Oko",
+        "ipa": "ˈoko"
       }
     },
     {
@@ -654,7 +705,8 @@
         "text": "Ohr"
       },
       "hr": {
-        "text": "Uho"
+        "text": "Uho",
+        "ipa": "ˈuxo"
       }
     },
     {
@@ -666,7 +718,8 @@
         "text": "Mund"
       },
       "hr": {
-        "text": "Usta"
+        "text": "Usta",
+        "ipa": "ˈusta"
       }
     },
     {
@@ -678,7 +731,8 @@
         "text": "Zahn"
       },
       "hr": {
-        "text": "Zub"
+        "text": "Zub",
+        "ipa": "zub"
       }
     },
     {
@@ -690,7 +744,8 @@
         "text": "Herz"
       },
       "hr": {
-        "text": "Srce"
+        "text": "Srce",
+        "ipa": "ˈsr̩tse"
       }
     },
     {
@@ -702,7 +757,8 @@
         "text": "Frage"
       },
       "hr": {
-        "text": "Pitanje"
+        "text": "Pitanje",
+        "ipa": "ˈpitaɲe"
       }
     },
     {
@@ -714,7 +770,8 @@
         "text": "Antwort"
       },
       "hr": {
-        "text": "Odgovor"
+        "text": "Odgovor",
+        "ipa": "ˈodɡoʋor"
       }
     },
     {
@@ -726,7 +783,8 @@
         "text": "Hilfe"
       },
       "hr": {
-        "text": "Pomoć"
+        "text": "Pomoć",
+        "ipa": "ˈpomotɕ"
       }
     },
     {
@@ -738,7 +796,8 @@
         "text": "Arbeit (Job)"
       },
       "hr": {
-        "text": "Posao"
+        "text": "Posao",
+        "ipa": "ˈposao"
       }
     },
     {
@@ -750,7 +809,8 @@
         "text": "Büro"
       },
       "hr": {
-        "text": "Ured"
+        "text": "Ured",
+        "ipa": "ˈured"
       }
     },
     {
@@ -762,7 +822,8 @@
         "text": "Gebäude"
       },
       "hr": {
-        "text": "Zgrada"
+        "text": "Zgrada",
+        "ipa": "ˈzɡrada"
       }
     },
     {
@@ -774,7 +835,8 @@
         "text": "Badezimmer"
       },
       "hr": {
-        "text": "Kupaonica"
+        "text": "Kupaonica",
+        "ipa": "ˈkupaonitsa"
       }
     },
     {
@@ -786,7 +848,8 @@
         "text": "Bett"
       },
       "hr": {
-        "text": "Krevet"
+        "text": "Krevet",
+        "ipa": "ˈkreʋet"
       }
     },
     {
@@ -798,7 +861,8 @@
         "text": "Spiegel"
       },
       "hr": {
-        "text": "Ogledalo"
+        "text": "Ogledalo",
+        "ipa": "ˈoɡledalo"
       }
     },
     {
@@ -810,7 +874,8 @@
         "text": "Seife"
       },
       "hr": {
-        "text": "Sapun"
+        "text": "Sapun",
+        "ipa": "ˈsapun"
       }
     },
     {
@@ -822,7 +887,8 @@
         "text": "Handy"
       },
       "hr": {
-        "text": "Mobitel"
+        "text": "Mobitel",
+        "ipa": "ˈmobitel"
       }
     },
     {
@@ -834,7 +900,8 @@
         "text": "Computer"
       },
       "hr": {
-        "text": "Računalo"
+        "text": "Računalo",
+        "ipa": "ˈratʃunalo"
       }
     },
     {
@@ -846,7 +913,8 @@
         "text": "Lesen"
       },
       "hr": {
-        "text": "Čitati"
+        "text": "Čitati",
+        "ipa": "ˈtʃitati"
       }
     },
     {
@@ -858,7 +926,8 @@
         "text": "Lernen"
       },
       "hr": {
-        "text": "Učiti"
+        "text": "Učiti",
+        "ipa": "ˈutʃiti"
       }
     },
     {
@@ -870,7 +939,8 @@
         "text": "Spielen"
       },
       "hr": {
-        "text": "Igrati"
+        "text": "Igrati",
+        "ipa": "ˈiɡrati"
       }
     },
     {
@@ -882,7 +952,8 @@
         "text": "Schwimmen"
       },
       "hr": {
-        "text": "Plivati"
+        "text": "Plivati",
+        "ipa": "ˈpliʋati"
       }
     },
     {
@@ -894,7 +965,8 @@
         "text": "Brief"
       },
       "hr": {
-        "text": "Pismo"
+        "text": "Pismo",
+        "ipa": "ˈpismo"
       }
     },
     {
@@ -906,7 +978,8 @@
         "text": "Bild"
       },
       "hr": {
-        "text": "Slika"
+        "text": "Slika",
+        "ipa": "ˈslika"
       }
     },
     {
@@ -918,7 +991,8 @@
         "text": "Musik"
       },
       "hr": {
-        "text": "Glazba"
+        "text": "Glazba",
+        "ipa": "ˈɡlazba"
       }
     },
     {
@@ -930,7 +1004,8 @@
         "text": "Lied"
       },
       "hr": {
-        "text": "Pjesma"
+        "text": "Pjesma",
+        "ipa": "ˈpjesma"
       }
     },
     {
@@ -942,7 +1017,8 @@
         "text": "Film"
       },
       "hr": {
-        "text": "Film"
+        "text": "Film",
+        "ipa": "film"
       }
     },
     {
@@ -954,7 +1030,8 @@
         "text": "Tier"
       },
       "hr": {
-        "text": "Životinja"
+        "text": "Životinja",
+        "ipa": "ˈʒiʋotiɲa"
       }
     },
     {
@@ -966,7 +1043,8 @@
         "text": "Vogel"
       },
       "hr": {
-        "text": "Ptica"
+        "text": "Ptica",
+        "ipa": "ˈptitsa"
       }
     },
     {
@@ -978,7 +1056,8 @@
         "text": "Schlange"
       },
       "hr": {
-        "text": "Zmija"
+        "text": "Zmija",
+        "ipa": "ˈzmija"
       }
     },
     {
@@ -990,7 +1069,8 @@
         "text": "Bär"
       },
       "hr": {
-        "text": "Medvjed"
+        "text": "Medvjed",
+        "ipa": "ˈmedʋjed"
       }
     },
     {
@@ -1002,7 +1082,8 @@
         "text": "Schwer"
       },
       "hr": {
-        "text": "Teško"
+        "text": "Teško",
+        "ipa": "ˈteʃko"
       }
     },
     {
@@ -1014,7 +1095,8 @@
         "text": "Leicht"
       },
       "hr": {
-        "text": "Lako"
+        "text": "Lako",
+        "ipa": "ˈlako"
       }
     },
     {
@@ -1026,7 +1108,8 @@
         "text": "Schnell"
       },
       "hr": {
-        "text": "Brzo"
+        "text": "Brzo",
+        "ipa": "ˈbr̩zo"
       }
     },
     {
@@ -1038,7 +1121,8 @@
         "text": "Langsam"
       },
       "hr": {
-        "text": "Sporo"
+        "text": "Sporo",
+        "ipa": "ˈsporo"
       }
     },
     {
@@ -1050,7 +1134,8 @@
         "text": "Beschäftigt"
       },
       "hr": {
-        "text": "Zauzet"
+        "text": "Zauzet",
+        "ipa": "ˈzauzet"
       }
     },
     {
@@ -1062,7 +1147,8 @@
         "text": "Immer"
       },
       "hr": {
-        "text": "Uvijek"
+        "text": "Uvijek",
+        "ipa": "ˈuʋijek"
       }
     },
     {
@@ -1074,7 +1160,8 @@
         "text": "Nie"
       },
       "hr": {
-        "text": "Nikad"
+        "text": "Nikad",
+        "ipa": "ˈnikad"
       }
     },
     {
@@ -1086,7 +1173,8 @@
         "text": "Später"
       },
       "hr": {
-        "text": "Kasnije"
+        "text": "Kasnije",
+        "ipa": "ˈkasnije"
       }
     },
     {
@@ -1098,7 +1186,8 @@
         "text": "Wissenschaft"
       },
       "hr": {
-        "text": "Znanost"
+        "text": "Znanost",
+        "ipa": "ˈznanost"
       }
     },
     {
@@ -1110,7 +1199,8 @@
         "text": "Geschichte (Historie)"
       },
       "hr": {
-        "text": "Povijest"
+        "text": "Povijest",
+        "ipa": "ˈpoʋijest"
       }
     },
     {
@@ -1122,7 +1212,8 @@
         "text": "Zukunft"
       },
       "hr": {
-        "text": "Budućnost"
+        "text": "Budućnost",
+        "ipa": "ˈbudutɕnost"
       }
     },
     {
@@ -1134,7 +1225,8 @@
         "text": "Vergangenheit"
       },
       "hr": {
-        "text": "Prošlost"
+        "text": "Prošlost",
+        "ipa": "ˈproʃlost"
       }
     },
     {
@@ -1146,7 +1238,8 @@
         "text": "Verantwortung"
       },
       "hr": {
-        "text": "Odgovornost"
+        "text": "Odgovornost",
+        "ipa": "ˈodɡoʋornost"
       }
     },
     {
@@ -1158,7 +1251,8 @@
         "text": "Möglichkeit"
       },
       "hr": {
-        "text": "Mogućnost"
+        "text": "Mogućnost",
+        "ipa": "ˈmoɡutɕnost"
       }
     },
     {
@@ -1170,7 +1264,8 @@
         "text": "Erwartung"
       },
       "hr": {
-        "text": "Očekivanje"
+        "text": "Očekivanje",
+        "ipa": "ˈotʃekiʋaɲe"
       }
     },
     {
@@ -1182,7 +1277,8 @@
         "text": "Erfahrung"
       },
       "hr": {
-        "text": "Iskustvo"
+        "text": "Iskustvo",
+        "ipa": "ˈiskustʋo"
       }
     },
     {
@@ -1194,7 +1290,8 @@
         "text": "Gefühl"
       },
       "hr": {
-        "text": "Osjećaj"
+        "text": "Osjećaj",
+        "ipa": "ˈosjetɕaj"
       }
     },
     {
@@ -1206,7 +1303,8 @@
         "text": "Erinnerung"
       },
       "hr": {
-        "text": "Sjećanje"
+        "text": "Sjećanje",
+        "ipa": "ˈsjetɕaɲe"
       }
     },
     {
@@ -1218,7 +1316,8 @@
         "text": "Vergessen"
       },
       "hr": {
-        "text": "Zaborav"
+        "text": "Zaborav",
+        "ipa": "ˈzaboraʋ"
       }
     },
     {
@@ -1230,7 +1329,8 @@
         "text": "Ziel"
       },
       "hr": {
-        "text": "Cilj"
+        "text": "Cilj",
+        "ipa": "tsiʎ"
       }
     },
     {
@@ -1242,7 +1342,8 @@
         "text": "Zweck"
       },
       "hr": {
-        "text": "Svrha"
+        "text": "Svrha",
+        "ipa": "ˈsʋr̩xa"
       }
     },
     {
@@ -1254,7 +1355,8 @@
         "text": "Bedeutung"
       },
       "hr": {
-        "text": "Značenje"
+        "text": "Značenje",
+        "ipa": "ˈznatʃeɲe"
       }
     },
     {
@@ -1266,7 +1368,8 @@
         "text": "Ursache"
       },
       "hr": {
-        "text": "Uzrok"
+        "text": "Uzrok",
+        "ipa": "ˈuzrok"
       }
     },
     {
@@ -1278,7 +1381,8 @@
         "text": "Folge (Konsequenz)"
       },
       "hr": {
-        "text": "Posljedica"
+        "text": "Posljedica",
+        "ipa": "ˈposʎeditsa"
       }
     },
     {
@@ -1290,7 +1394,8 @@
         "text": "Problem"
       },
       "hr": {
-        "text": "Problem"
+        "text": "Problem",
+        "ipa": "ˈproblem"
       }
     },
     {
@@ -1302,7 +1407,8 @@
         "text": "Lösung"
       },
       "hr": {
-        "text": "Rješenje"
+        "text": "Rješenje",
+        "ipa": "ˈr̩jeʃeɲe"
       }
     },
     {
@@ -1314,7 +1420,8 @@
         "text": "Gesellschaft"
       },
       "hr": {
-        "text": "Društvo"
+        "text": "Društvo",
+        "ipa": "ˈdruʃtʋo"
       }
     },
     {
@@ -1326,7 +1433,8 @@
         "text": "Regierung"
       },
       "hr": {
-        "text": "Vlada"
+        "text": "Vlada",
+        "ipa": "ˈʋlada"
       }
     },
     {
@@ -1338,7 +1446,8 @@
         "text": "Gesetz"
       },
       "hr": {
-        "text": "Zakon"
+        "text": "Zakon",
+        "ipa": "ˈzakon"
       }
     },
     {
@@ -1350,7 +1459,8 @@
         "text": "Gericht"
       },
       "hr": {
-        "text": "Sud"
+        "text": "Sud",
+        "ipa": "sud"
       }
     },
     {
@@ -1362,7 +1472,8 @@
         "text": "Gerechtigkeit"
       },
       "hr": {
-        "text": "Pravda"
+        "text": "Pravda",
+        "ipa": "ˈpraʋda"
       }
     },
     {
@@ -1374,7 +1485,8 @@
         "text": "Ungerechtigkeit"
       },
       "hr": {
-        "text": "Nepravda"
+        "text": "Nepravda",
+        "ipa": "ˈnepraʋda"
       }
     },
     {
@@ -1386,7 +1498,8 @@
         "text": "Wirtschaft"
       },
       "hr": {
-        "text": "Gospodarstvo"
+        "text": "Gospodarstvo",
+        "ipa": "ˈɡospodarstʋo"
       }
     },
     {
@@ -1398,7 +1511,8 @@
         "text": "Markt"
       },
       "hr": {
-        "text": "Tržište"
+        "text": "Tržište",
+        "ipa": "ˈtr̩ʒiʃte"
       }
     },
     {
@@ -1410,7 +1524,8 @@
         "text": "Unternehmen"
       },
       "hr": {
-        "text": "Tvrtka"
+        "text": "Tvrtka",
+        "ipa": "ˈtʋr̩tka"
       }
     },
     {
@@ -1422,7 +1537,8 @@
         "text": "Steuer"
       },
       "hr": {
-        "text": "Porez"
+        "text": "Porez",
+        "ipa": "ˈporez"
       }
     },
     {
@@ -1434,7 +1550,8 @@
         "text": "Arbeitslosigkeit"
       },
       "hr": {
-        "text": "Nezaposlenost"
+        "text": "Nezaposlenost",
+        "ipa": "ˈnezaposlenost"
       }
     },
     {
@@ -1446,7 +1563,8 @@
         "text": "Versicherung"
       },
       "hr": {
-        "text": "Osiguranje"
+        "text": "Osiguranje",
+        "ipa": "ˈosiɡuraɲe"
       }
     },
     {
@@ -1458,7 +1576,8 @@
         "text": "Politik"
       },
       "hr": {
-        "text": "Politika"
+        "text": "Politika",
+        "ipa": "ˈpolitika"
       }
     },
     {
@@ -1470,7 +1589,8 @@
         "text": "Hass"
       },
       "hr": {
-        "text": "Mržnja"
+        "text": "Mržnja",
+        "ipa": "ˈmr̩ʒɲa"
       }
     },
     {
@@ -1482,7 +1602,8 @@
         "text": "Angst"
       },
       "hr": {
-        "text": "Strah"
+        "text": "Strah",
+        "ipa": "strax"
       }
     },
     {
@@ -1494,7 +1615,8 @@
         "text": "Mut"
       },
       "hr": {
-        "text": "Hrabrost"
+        "text": "Hrabrost",
+        "ipa": "ˈxrabrost"
       }
     },
     {
@@ -1506,7 +1628,8 @@
         "text": "Stolz"
       },
       "hr": {
-        "text": "Ponos"
+        "text": "Ponos",
+        "ipa": "ˈponos"
       }
     },
     {
@@ -1518,7 +1641,8 @@
         "text": "Scham"
       },
       "hr": {
-        "text": "Sram"
+        "text": "Sram",
+        "ipa": "sram"
       }
     },
     {
@@ -1530,7 +1654,8 @@
         "text": "Schuld"
       },
       "hr": {
-        "text": "Krivnja"
+        "text": "Krivnja",
+        "ipa": "ˈkriʋɲa"
       }
     },
     {
@@ -1542,7 +1667,8 @@
         "text": "Hoffnung"
       },
       "hr": {
-        "text": "Nada"
+        "text": "Nada",
+        "ipa": "ˈnada"
       }
     },
     {
@@ -1554,7 +1680,8 @@
         "text": "Zweifel"
       },
       "hr": {
-        "text": "Sumnja"
+        "text": "Sumnja",
+        "ipa": "ˈsumɲa"
       }
     },
     {
@@ -1566,7 +1693,8 @@
         "text": "Respekt"
       },
       "hr": {
-        "text": "Poštovanje"
+        "text": "Poštovanje",
+        "ipa": "ˈpoʃtoʋaɲe"
       }
     },
     {
@@ -1578,7 +1706,8 @@
         "text": "Vertrauen"
       },
       "hr": {
-        "text": "Povjerenje"
+        "text": "Povjerenje",
+        "ipa": "ˈpoʋjereɲe"
       }
     },
     {
@@ -1590,7 +1719,8 @@
         "text": "Ehrlichkeit"
       },
       "hr": {
-        "text": "Iskrenost"
+        "text": "Iskrenost",
+        "ipa": "ˈiskrenost"
       }
     },
     {
@@ -1602,7 +1732,8 @@
         "text": "Geduld"
       },
       "hr": {
-        "text": "Strpljenje"
+        "text": "Strpljenje",
+        "ipa": "ˈstr̩pʎeɲe"
       }
     },
     {
@@ -1614,7 +1745,8 @@
         "text": "Entscheiden"
       },
       "hr": {
-        "text": "Odlučiti"
+        "text": "Odlučiti",
+        "ipa": "ˈodlutʃiti"
       }
     },
     {
@@ -1626,7 +1758,8 @@
         "text": "Erklären"
       },
       "hr": {
-        "text": "Objasniti"
+        "text": "Objasniti",
+        "ipa": "ˈobjasniti"
       }
     },
     {
@@ -1638,7 +1771,8 @@
         "text": "Verstehen"
       },
       "hr": {
-        "text": "Razumjeti"
+        "text": "Razumjeti",
+        "ipa": "ˈrazumjeti"
       }
     },
     {
@@ -1650,7 +1784,8 @@
         "text": "Begreifen"
       },
       "hr": {
-        "text": "Shvatiti"
+        "text": "Shvatiti",
+        "ipa": "ˈsxʋatiti"
       }
     },
     {
@@ -1662,7 +1797,8 @@
         "text": "Sich anpassen"
       },
       "hr": {
-        "text": "Prilagoditi se"
+        "text": "Prilagoditi se",
+        "ipa": "ˈprilaɡoditi se"
       }
     },
     {
@@ -1674,7 +1810,8 @@
         "text": "Teilnehmen"
       },
       "hr": {
-        "text": "Sudjelovati"
+        "text": "Sudjelovati",
+        "ipa": "ˈsudjeloʋati"
       }
     },
     {
@@ -1686,7 +1823,8 @@
         "text": "Vergleichen"
       },
       "hr": {
-        "text": "Usporediti"
+        "text": "Usporediti",
+        "ipa": "ˈusporediti"
       }
     },
     {
@@ -1698,7 +1836,8 @@
         "text": "Vermuten"
       },
       "hr": {
-        "text": "Pretpostaviti"
+        "text": "Pretpostaviti",
+        "ipa": "ˈpretpostaʋiti"
       }
     },
     {
@@ -1710,7 +1849,8 @@
         "text": "Zweifeln"
       },
       "hr": {
-        "text": "Sumnjati"
+        "text": "Sumnjati",
+        "ipa": "ˈsumɲati"
       }
     },
     {
@@ -1722,7 +1862,8 @@
         "text": "Entwickeln"
       },
       "hr": {
-        "text": "Razviti"
+        "text": "Razviti",
+        "ipa": "ˈrazʋiti"
       }
     },
     {
@@ -1734,7 +1875,8 @@
         "text": "Anwenden"
       },
       "hr": {
-        "text": "Primijeniti"
+        "text": "Primijeniti",
+        "ipa": "ˈprimijeniti"
       }
     },
     {
@@ -1746,7 +1888,8 @@
         "text": "Vermeiden"
       },
       "hr": {
-        "text": "Izbjegavati"
+        "text": "Izbjegavati",
+        "ipa": "ˈizbjeɡaʋati"
       }
     },
     {
@@ -1758,7 +1901,8 @@
         "text": "Erwarten"
       },
       "hr": {
-        "text": "Očekivati"
+        "text": "Očekivati",
+        "ipa": "ˈotʃekiʋati"
       }
     },
     {
@@ -1770,7 +1914,8 @@
         "text": "Unterstützen"
       },
       "hr": {
-        "text": "Podržati"
+        "text": "Podržati",
+        "ipa": "ˈpodr̩ʒati"
       }
     },
     {
@@ -1782,7 +1927,8 @@
         "text": "Unabhängig"
       },
       "hr": {
-        "text": "Neovisno"
+        "text": "Neovisno",
+        "ipa": "ˈneoʋisno"
       }
     },
     {
@@ -1794,7 +1940,8 @@
         "text": "Vorübergehend"
       },
       "hr": {
-        "text": "Privremeno"
+        "text": "Privremeno",
+        "ipa": "ˈpriʋremeno"
       }
     },
     {
@@ -1806,7 +1953,8 @@
         "text": "Ständig"
       },
       "hr": {
-        "text": "Stalno"
+        "text": "Stalno",
+        "ipa": "ˈstalno"
       }
     },
     {
@@ -1818,7 +1966,8 @@
         "text": "Zufällig"
       },
       "hr": {
-        "text": "Slučajno"
+        "text": "Slučajno",
+        "ipa": "ˈslutʃajno"
       }
     },
     {
@@ -1830,7 +1979,8 @@
         "text": "Absichtlich"
       },
       "hr": {
-        "text": "Namjerno"
+        "text": "Namjerno",
+        "ipa": "ˈnamjerno"
       }
     },
     {
@@ -1842,7 +1992,8 @@
         "text": "Wahrscheinlich"
       },
       "hr": {
-        "text": "Vjerojatno"
+        "text": "Vjerojatno",
+        "ipa": "ˈʋjerojatno"
       }
     },
     {
@@ -1854,7 +2005,8 @@
         "text": "Unglaublich"
       },
       "hr": {
-        "text": "Nevjerojatno"
+        "text": "Nevjerojatno",
+        "ipa": "ˈneʋjerojatno"
       }
     },
     {
@@ -1866,7 +2018,8 @@
         "text": "Komplex"
       },
       "hr": {
-        "text": "Složeno"
+        "text": "Složeno",
+        "ipa": "ˈsloʒeno"
       }
     },
     {
@@ -1878,7 +2031,8 @@
         "text": "Offensichtlich"
       },
       "hr": {
-        "text": "Očito"
+        "text": "Očito",
+        "ipa": "ˈotʃito"
       }
     },
     {
@@ -1890,7 +2044,8 @@
         "text": "Bedeutend"
       },
       "hr": {
-        "text": "Značajno"
+        "text": "Značajno",
+        "ipa": "ˈznatʃajno"
       }
     },
     {
@@ -1902,7 +2057,8 @@
         "text": "Erfolgreich"
       },
       "hr": {
-        "text": "Uspješno"
+        "text": "Uspješno",
+        "ipa": "ˈuspjeʃno"
       }
     },
     {
@@ -1914,7 +2070,8 @@
         "text": "Dringend"
       },
       "hr": {
-        "text": "Hitno"
+        "text": "Hitno",
+        "ipa": "ˈxitno"
       }
     },
     {
@@ -1926,7 +2083,8 @@
         "text": "Gefährlich"
       },
       "hr": {
-        "text": "Opasno"
+        "text": "Opasno",
+        "ipa": "ˈopasno"
       }
     },
     {
@@ -1938,7 +2096,8 @@
         "text": "Überraschung"
       },
       "hr": {
-        "text": "Iznenađenje"
+        "text": "Iznenađenje",
+        "ipa": "ˈiznenadʑeɲe"
       }
     },
     {
@@ -1950,7 +2109,8 @@
         "text": "Enttäuschung"
       },
       "hr": {
-        "text": "Razočaranje"
+        "text": "Razočaranje",
+        "ipa": "ˈrazotʃaraɲe"
       }
     },
     {
@@ -1962,7 +2122,8 @@
         "text": "Erfolg"
       },
       "hr": {
-        "text": "Uspjeh"
+        "text": "Uspjeh",
+        "ipa": "ˈuspjex"
       }
     },
     {
@@ -1974,7 +2135,8 @@
         "text": "Misserfolg"
       },
       "hr": {
-        "text": "Neuspjeh"
+        "text": "Neuspjeh",
+        "ipa": "ˈneuspjex"
       }
     },
     {
@@ -1986,7 +2148,8 @@
         "text": "Vorteil"
       },
       "hr": {
-        "text": "Prednost"
+        "text": "Prednost",
+        "ipa": "ˈprednost"
       }
     },
     {
@@ -1998,7 +2161,8 @@
         "text": "Nachteil"
       },
       "hr": {
-        "text": "Nedostatak"
+        "text": "Nedostatak",
+        "ipa": "ˈnedostatak"
       }
     },
     {
@@ -2010,7 +2174,8 @@
         "text": "Wissen"
       },
       "hr": {
-        "text": "Znanje"
+        "text": "Znanje",
+        "ipa": "ˈznaɲe"
       }
     },
     {
@@ -2022,7 +2187,8 @@
         "text": "Wahrheit"
       },
       "hr": {
-        "text": "Istina"
+        "text": "Istina",
+        "ipa": "ˈistina"
       }
     },
     {
@@ -2034,7 +2200,8 @@
         "text": "Lüge"
       },
       "hr": {
-        "text": "Laž"
+        "text": "Laž",
+        "ipa": "laʒ"
       }
     },
     {
@@ -2046,7 +2213,8 @@
         "text": "Meinung"
       },
       "hr": {
-        "text": "Mišljenje"
+        "text": "Mišljenje",
+        "ipa": "ˈmiʃʎeɲe"
       }
     },
     {
@@ -2058,7 +2226,8 @@
         "text": "Einstellung"
       },
       "hr": {
-        "text": "Stav"
+        "text": "Stav",
+        "ipa": "staʋ"
       }
     },
     {
@@ -2070,7 +2239,8 @@
         "text": "Entscheidung"
       },
       "hr": {
-        "text": "Odluka"
+        "text": "Odluka",
+        "ipa": "ˈodluka"
       }
     },
     {
@@ -2082,7 +2252,8 @@
         "text": "Vereinbarung"
       },
       "hr": {
-        "text": "Dogovor"
+        "text": "Dogovor",
+        "ipa": "ˈdoɡoʋor"
       }
     },
     {
@@ -2094,7 +2265,8 @@
         "text": "Universum"
       },
       "hr": {
-        "text": "Svemir"
+        "text": "Svemir",
+        "ipa": "ˈsʋemir"
       }
     },
     {
@@ -2106,7 +2278,8 @@
         "text": "Natur"
       },
       "hr": {
-        "text": "Priroda"
+        "text": "Priroda",
+        "ipa": "ˈpriroda"
       }
     },
     {
@@ -2118,7 +2291,8 @@
         "text": "Umwelt"
       },
       "hr": {
-        "text": "Okoliš"
+        "text": "Okoliš",
+        "ipa": "ˈokoliʃ"
       }
     },
     {
@@ -2130,7 +2304,8 @@
         "text": "Nachhaltigkeit"
       },
       "hr": {
-        "text": "Održivost"
+        "text": "Održivost",
+        "ipa": "ˈodr̩ʒiʋost"
       }
     },
     {
@@ -2142,7 +2317,8 @@
         "text": "Forschung"
       },
       "hr": {
-        "text": "Istraživanje"
+        "text": "Istraživanje",
+        "ipa": "ˈistraʒiʋaɲe"
       }
     },
     {
@@ -2154,7 +2330,8 @@
         "text": "Entwicklung"
       },
       "hr": {
-        "text": "Razvoj"
+        "text": "Razvoj",
+        "ipa": "ˈrazʋoj"
       }
     },
     {
@@ -2166,7 +2343,8 @@
         "text": "Wissenschaftler"
       },
       "hr": {
-        "text": "Znanstvenik"
+        "text": "Znanstvenik",
+        "ipa": "ˈznanstʋenik"
       }
     },
     {
@@ -2178,7 +2356,8 @@
         "text": "Kunst"
       },
       "hr": {
-        "text": "Umjetnost"
+        "text": "Umjetnost",
+        "ipa": "ˈumjetnost"
       }
     },
     {
@@ -2190,7 +2369,8 @@
         "text": "Freiheit"
       },
       "hr": {
-        "text": "Sloboda"
+        "text": "Sloboda",
+        "ipa": "ˈsloboda"
       }
     },
     {
@@ -2202,7 +2382,8 @@
         "text": "Frieden"
       },
       "hr": {
-        "text": "Mir"
+        "text": "Mir",
+        "ipa": "mir"
       }
     },
     {
@@ -2214,7 +2395,8 @@
         "text": "Krieg"
       },
       "hr": {
-        "text": "Rat"
+        "text": "Rat",
+        "ipa": "rat"
       }
     },
     {
@@ -2226,7 +2408,8 @@
         "text": "Gewalt"
       },
       "hr": {
-        "text": "Nasilje"
+        "text": "Nasilje",
+        "ipa": "ˈnasiʎe"
       }
     },
     {
@@ -2238,7 +2421,8 @@
         "text": "Verteidigung"
       },
       "hr": {
-        "text": "Obrana"
+        "text": "Obrana",
+        "ipa": "ˈobrana"
       }
     },
     {
@@ -2250,7 +2434,8 @@
         "text": "Sicherheit"
       },
       "hr": {
-        "text": "Sigurnost"
+        "text": "Sigurnost",
+        "ipa": "ˈsiɡurnost"
       }
     },
     {
@@ -2262,7 +2447,8 @@
         "text": "Bedrohung"
       },
       "hr": {
-        "text": "Prijetnja"
+        "text": "Prijetnja",
+        "ipa": "ˈprijetɲa"
       }
     },
     {
@@ -2274,7 +2460,8 @@
         "text": "Gelegenheit"
       },
       "hr": {
-        "text": "Prilika"
+        "text": "Prilika",
+        "ipa": "ˈprilika"
       }
     },
     {
@@ -2286,7 +2473,8 @@
         "text": "Bedingung"
       },
       "hr": {
-        "text": "Uvjet"
+        "text": "Uvjet",
+        "ipa": "ˈuʋjet"
       }
     },
     {
@@ -2298,7 +2486,8 @@
         "text": "Zugang"
       },
       "hr": {
-        "text": "Pristup"
+        "text": "Pristup",
+        "ipa": "ˈpristup"
       }
     },
     {
@@ -2310,7 +2499,8 @@
         "text": "Einfluss"
       },
       "hr": {
-        "text": "Utjecaj"
+        "text": "Utjecaj",
+        "ipa": "ˈutjetsaj"
       }
     },
     {
@@ -2322,7 +2512,8 @@
         "text": "Beweis"
       },
       "hr": {
-        "text": "Dokaz"
+        "text": "Dokaz",
+        "ipa": "ˈdokaz"
       }
     },
     {
@@ -2334,7 +2525,8 @@
         "text": "System"
       },
       "hr": {
-        "text": "Sustav"
+        "text": "Sustav",
+        "ipa": "ˈsustaʋ"
       }
     },
     {
@@ -2346,7 +2538,8 @@
         "text": "Maßnahme"
       },
       "hr": {
-        "text": "Mjera"
+        "text": "Mjera",
+        "ipa": "ˈmjera"
       }
     },
     {
@@ -2358,7 +2551,8 @@
         "text": "Brauch"
       },
       "hr": {
-        "text": "Običaj"
+        "text": "Običaj",
+        "ipa": "ˈobitʃaj"
       }
     },
     {
@@ -2370,7 +2564,8 @@
         "text": "Tradition"
       },
       "hr": {
-        "text": "Tradicija"
+        "text": "Tradicija",
+        "ipa": "ˈtraditsija"
       }
     },
     {
@@ -2382,7 +2577,8 @@
         "text": "Religion"
       },
       "hr": {
-        "text": "Religija"
+        "text": "Religija",
+        "ipa": "ˈreliɡija"
       }
     },
     {
@@ -2394,7 +2590,8 @@
         "text": "Glaube"
       },
       "hr": {
-        "text": "Vjera"
+        "text": "Vjera",
+        "ipa": "ˈʋjera"
       }
     },
     {
@@ -2406,7 +2603,8 @@
         "text": "Wie geht es dir heute?"
       },
       "hr": {
-        "text": "Kako si danas?"
+        "text": "Kako si danas?",
+        "ipa": "ˈkako si ˈdanas"
       }
     },
     {
@@ -2418,7 +2616,8 @@
         "text": "Mir geht es gut"
       },
       "hr": {
-        "text": "Ja sam dobro"
+        "text": "Ja sam dobro",
+        "ipa": "ja sam ˈdobro"
       }
     },
     {
@@ -2430,7 +2629,8 @@
         "text": "Das ist gut"
       },
       "hr": {
-        "text": "To je dobro"
+        "text": "To je dobro",
+        "ipa": "to je ˈdobro"
       }
     },
     {
@@ -2442,7 +2642,8 @@
         "text": "Das ist schlecht"
       },
       "hr": {
-        "text": "To je loše"
+        "text": "To je loše",
+        "ipa": "to je ˈloʃe"
       }
     },
     {
@@ -2454,7 +2655,8 @@
         "text": "Wo bist du?"
       },
       "hr": {
-        "text": "Gdje si ti?"
+        "text": "Gdje si ti?",
+        "ipa": "ɡdje si ti"
       }
     },
     {
@@ -2466,7 +2668,8 @@
         "text": "Was ist das?"
       },
       "hr": {
-        "text": "Što je to?"
+        "text": "Što je to?",
+        "ipa": "ʃto je to"
       }
     },
     {
@@ -2478,7 +2681,8 @@
         "text": "Wer ist das?"
       },
       "hr": {
-        "text": "Tko je to?"
+        "text": "Tko je to?",
+        "ipa": "tko je to"
       }
     },
     {
@@ -2490,7 +2694,8 @@
         "text": "Ich weiß nicht"
       },
       "hr": {
-        "text": "Ja ne znam"
+        "text": "Ja ne znam",
+        "ipa": "ja ne znam"
       }
     },
     {
@@ -2502,7 +2707,8 @@
         "text": "Ich gehe nach Hause"
       },
       "hr": {
-        "text": "Ja idem kući"
+        "text": "Ja idem kući",
+        "ipa": "ja ˈidem ˈkutɕi"
       }
     },
     {
@@ -2514,7 +2720,8 @@
         "text": "Das Wetter ist schön"
       },
       "hr": {
-        "text": "Vrijeme je lijepo"
+        "text": "Vrijeme je lijepo",
+        "ipa": "ˈʋrijeme je ˈlijepo"
       }
     },
     {
@@ -2526,7 +2733,8 @@
         "text": "Ich brauche deine Hilfe"
       },
       "hr": {
-        "text": "Trebam tvoju pomoć"
+        "text": "Trebam tvoju pomoć",
+        "ipa": "ˈtrebam ˈtʋoju ˈpomotɕ"
       }
     },
     {
@@ -2538,7 +2746,8 @@
         "text": "Ich habe eine Frage"
       },
       "hr": {
-        "text": "Imam jedno pitanje"
+        "text": "Imam jedno pitanje",
+        "ipa": "ˈimam ˈjedno ˈpitaɲe"
       }
     },
     {
@@ -2550,7 +2759,8 @@
         "text": "Bitte komm her"
       },
       "hr": {
-        "text": "Molim te dođi"
+        "text": "Molim te dođi",
+        "ipa": "ˈmolim te ˈdodʑi"
       }
     },
     {
@@ -2562,7 +2772,8 @@
         "text": "Gib mir das"
       },
       "hr": {
-        "text": "Daj mi to"
+        "text": "Daj mi to",
+        "ipa": "daj mi to"
       }
     },
     {
@@ -2574,7 +2785,8 @@
         "text": "Ich bin hungrig"
       },
       "hr": {
-        "text": "Ja sam gladan"
+        "text": "Ja sam gladan",
+        "ipa": "ja sam ˈɡladan"
       }
     },
     {
@@ -2586,7 +2798,8 @@
         "text": "Sie ist schön"
       },
       "hr": {
-        "text": "Ona je lijepa"
+        "text": "Ona je lijepa",
+        "ipa": "ˈona je ˈlijepa"
       }
     },
     {
@@ -2598,7 +2811,8 @@
         "text": "Wir sind hier"
       },
       "hr": {
-        "text": "Mi smo ovdje"
+        "text": "Mi smo ovdje",
+        "ipa": "mi smo ˈoʋdje"
       }
     },
     {
@@ -2610,7 +2824,8 @@
         "text": "Alles ist super"
       },
       "hr": {
-        "text": "Sve je super"
+        "text": "Sve je super",
+        "ipa": "sʋe je ˈsuper"
       }
     },
     {
@@ -2622,7 +2837,8 @@
         "text": "Ich habe einen Hund"
       },
       "hr": {
-        "text": "Ja imam psa"
+        "text": "Ja imam psa",
+        "ipa": "ja ˈimam psa"
       }
     },
     {
@@ -2634,7 +2850,8 @@
         "text": "Ich trinke viel Wasser"
       },
       "hr": {
-        "text": "Pijem puno vode"
+        "text": "Pijem puno vode",
+        "ipa": "ˈpijem ˈpuno ˈʋode"
       }
     },
     {
@@ -2646,7 +2863,8 @@
         "text": "Der Kaffee ist warm"
       },
       "hr": {
-        "text": "Kava je topla"
+        "text": "Kava je topla",
+        "ipa": "ˈkaʋa je ˈtopla"
       }
     },
     {
@@ -2658,7 +2876,8 @@
         "text": "Ich arbeite heute"
       },
       "hr": {
-        "text": "Ja radim danas"
+        "text": "Ja radim danas",
+        "ipa": "ja ˈradim ˈdanas"
       }
     },
     {
@@ -2670,7 +2889,8 @@
         "text": "Wir gehen einen Kaffee trinken"
       },
       "hr": {
-        "text": "Idemo na kavu"
+        "text": "Idemo na kavu",
+        "ipa": "ˈidemo na ˈkaʋu"
       }
     },
     {
@@ -2682,7 +2902,8 @@
         "text": "Ich trinke gerne Tee"
       },
       "hr": {
-        "text": "Volim piti čaj"
+        "text": "Volim piti čaj",
+        "ipa": "ˈʋolim ˈpiti tʃaj"
       }
     },
     {
@@ -2694,7 +2915,8 @@
         "text": "Das Buch ist gut"
       },
       "hr": {
-        "text": "Knjiga je dobra"
+        "text": "Knjiga je dobra",
+        "ipa": "ˈkɲiɡa je ˈdobra"
       }
     },
     {
@@ -2706,7 +2928,8 @@
         "text": "Wir sehen uns morgen"
       },
       "hr": {
-        "text": "Vidimo se sutra"
+        "text": "Vidimo se sutra",
+        "ipa": "ˈʋidimo se ˈsutra"
       }
     },
     {
@@ -2718,7 +2941,8 @@
         "text": "Das ist nicht wahr"
       },
       "hr": {
-        "text": "To nije istina"
+        "text": "To nije istina",
+        "ipa": "to ˈnije ˈistina"
       }
     },
     {
@@ -2730,7 +2954,8 @@
         "text": "Kannst du kommen?"
       },
       "hr": {
-        "text": "Možeš li doći?"
+        "text": "Možeš li doći?",
+        "ipa": "ˈmoʒeʃ li ˈdotɕi"
       }
     },
     {
@@ -2742,7 +2967,8 @@
         "text": "Vielen Dank"
       },
       "hr": {
-        "text": "Hvala ti puno"
+        "text": "Hvala ti puno",
+        "ipa": "ˈxʋala ti ˈpuno"
       }
     },
     {
@@ -2754,7 +2980,8 @@
         "text": "Wo ist die nächste Bank?"
       },
       "hr": {
-        "text": "Gdje je najbliža banka?"
+        "text": "Gdje je najbliža banka?",
+        "ipa": "ɡdje je ˈnajbliʒa ˈbanka"
       }
     },
     {
@@ -2766,7 +2993,8 @@
         "text": "Wie viel kostet dieses Ticket?"
       },
       "hr": {
-        "text": "Koliko košta ova karta?"
+        "text": "Koliko košta ova karta?",
+        "ipa": "ˈkoliko ˈkoʃta ˈoʋa ˈkarta"
       }
     },
     {
@@ -2778,7 +3006,8 @@
         "text": "Der Zug fährt in zehn Minuten ab"
       },
       "hr": {
-        "text": "Vlak polazi za deset minuta"
+        "text": "Vlak polazi za deset minuta",
+        "ipa": "ʋlak ˈpolazi za ˈdeset ˈminuta"
       }
     },
     {
@@ -2790,7 +3019,8 @@
         "text": "Ich brauche ein Zimmer für zwei Personen"
       },
       "hr": {
-        "text": "Trebam sobu za dvije osobe"
+        "text": "Trebam sobu za dvije osobe",
+        "ipa": "ˈtrebam ˈsobu za ˈdʋije ˈosobe"
       }
     },
     {
@@ -2802,7 +3032,8 @@
         "text": "Ich möchte die Rechnung bezahlen"
       },
       "hr": {
-        "text": "Želim platiti račun"
+        "text": "Želim platiti račun",
+        "ipa": "ˈʒelim ˈplatiti ˈratʃun"
       }
     },
     {
@@ -2814,7 +3045,8 @@
         "text": "Kann ich die Speisekarte bekommen?"
       },
       "hr": {
-        "text": "Mogu li dobiti jelovnik?"
+        "text": "Mogu li dobiti jelovnik?",
+        "ipa": "ˈmoɡu li ˈdobiti ˈjeloʋnik"
       }
     },
     {
@@ -2826,7 +3058,8 @@
         "text": "Dieses Essen ist sehr lecker"
       },
       "hr": {
-        "text": "Ova hrana je jako ukusna"
+        "text": "Ova hrana je jako ukusna",
+        "ipa": "ˈoʋa ˈxrana je ˈjako ˈukusna"
       }
     },
     {
@@ -2838,7 +3071,8 @@
         "text": "Ich habe heute Kopfschmerzen"
       },
       "hr": {
-        "text": "Boli me glava danas"
+        "text": "Boli me glava danas",
+        "ipa": "ˈboli me ˈɡlaʋa ˈdanas"
       }
     },
     {
@@ -2850,7 +3084,8 @@
         "text": "Ich muss zum Arzt gehen"
       },
       "hr": {
-        "text": "Moram ići kod liječnika"
+        "text": "Moram ići kod liječnika",
+        "ipa": "ˈmoram ˈitɕi kod ˈlijetʃnika"
       }
     },
     {
@@ -2862,7 +3097,8 @@
         "text": "Das Wetter ist heute sehr schlecht"
       },
       "hr": {
-        "text": "Vrijeme je danas jako loše"
+        "text": "Vrijeme je danas jako loše",
+        "ipa": "ˈʋrijeme je ˈdanas ˈjako ˈloʃe"
       }
     },
     {
@@ -2874,7 +3110,8 @@
         "text": "Es regnet den ganzen Tag"
       },
       "hr": {
-        "text": "Pada kiša cijeli dan"
+        "text": "Pada kiša cijeli dan",
+        "ipa": "ˈpada ˈkiʃa ˈtsijeli dan"
       }
     },
     {
@@ -2886,7 +3123,8 @@
         "text": "Wie spät ist es jetzt?"
       },
       "hr": {
-        "text": "Koliko je sada sati?"
+        "text": "Koliko je sada sati?",
+        "ipa": "ˈkoliko je ˈsada ˈsati"
       }
     },
     {
@@ -2898,7 +3136,8 @@
         "text": "Heute habe ich viel Arbeit"
       },
       "hr": {
-        "text": "Danas imam puno posla"
+        "text": "Danas imam puno posla",
+        "ipa": "ˈdanas ˈimam ˈpuno ˈposla"
       }
     },
     {
@@ -2910,7 +3149,8 @@
         "text": "Ich habe mein Handy vergessen"
       },
       "hr": {
-        "text": "Zaboravio sam svoj mobitel"
+        "text": "Zaboravio sam svoj mobitel",
+        "ipa": "ˈzaboraʋio sam sʋoj ˈmobitel"
       }
     },
     {
@@ -2922,7 +3162,8 @@
         "text": "Können Sie mir helfen?"
       },
       "hr": {
-        "text": "Možete li mi pomoći?"
+        "text": "Možete li mi pomoći?",
+        "ipa": "ˈmoʒete li mi ˈpomotɕi"
       }
     },
     {
@@ -2934,7 +3175,8 @@
         "text": "Ich habe neue Schuhe gekauft"
       },
       "hr": {
-        "text": "Kupio sam nove cipele"
+        "text": "Kupio sam nove cipele",
+        "ipa": "ˈkupio sam ˈnoʋe ˈtsipele"
       }
     },
     {
@@ -2946,7 +3188,8 @@
         "text": "Wir gehen morgen an den Strand"
       },
       "hr": {
-        "text": "Idemo sutra na plažu"
+        "text": "Idemo sutra na plažu",
+        "ipa": "ˈidemo ˈsutra na ˈplaʒu"
       }
     },
     {
@@ -2958,7 +3201,8 @@
         "text": "Der Flughafen ist sehr groß"
       },
       "hr": {
-        "text": "Zračna luka je jako velika"
+        "text": "Zračna luka je jako velika",
+        "ipa": "ˈzratʃna ˈluka je ˈjako ˈʋelika"
       }
     },
     {
@@ -2970,7 +3214,8 @@
         "text": "Ich höre gerne gute Musik"
       },
       "hr": {
-        "text": "Volim slušati dobru glazbu"
+        "text": "Volim slušati dobru glazbu",
+        "ipa": "ˈʋolim ˈsluʃati ˈdobru ˈɡlazbu"
       }
     },
     {
@@ -2982,7 +3227,8 @@
         "text": "Bitte sprechen Sie langsamer"
       },
       "hr": {
-        "text": "Molim vas govorite sporije"
+        "text": "Molim vas govorite sporije",
+        "ipa": "ˈmolim ʋas ˈɡoʋorite ˈsporije"
       }
     },
     {
@@ -2994,7 +3240,8 @@
         "text": "Ich verstehe nicht was das bedeutet"
       },
       "hr": {
-        "text": "Ne razumijem što to znači"
+        "text": "Ne razumijem što to znači",
+        "ipa": "ne ˈrazumijem ʃto to ˈznatʃi"
       }
     },
     {
@@ -3006,7 +3253,8 @@
         "text": "Ich brauche mehr Zeit dafür"
       },
       "hr": {
-        "text": "Trebam više vremena za to"
+        "text": "Trebam više vremena za to",
+        "ipa": "ˈtrebam ˈʋiʃe ˈʋremena za to"
       }
     },
     {
@@ -3018,7 +3266,8 @@
         "text": "Das ist sehr wichtig"
       },
       "hr": {
-        "text": "Ovo je vrlo važno"
+        "text": "Ovo je vrlo važno",
+        "ipa": "ˈoʋo je ˈʋr̩lo ˈʋaʒno"
       }
     },
     {
@@ -3030,7 +3279,8 @@
         "text": "Wir sehen uns nächste Woche"
       },
       "hr": {
-        "text": "Vidimo se sljedeći tjedan"
+        "text": "Vidimo se sljedeći tjedan",
+        "ipa": "ˈʋidimo se ˈsʎedetɕi ˈtjedan"
       }
     },
     {
@@ -3042,7 +3292,8 @@
         "text": "Ich wünsche dir ein schönes Wochenende"
       },
       "hr": {
-        "text": "Želim ti ugodan vikend"
+        "text": "Želim ti ugodan vikend",
+        "ipa": "ˈʒelim ti ˈuɡodan ˈʋikend"
       }
     },
     {
@@ -3054,7 +3305,8 @@
         "text": "Sie trägt ein rotes Kleid"
       },
       "hr": {
-        "text": "Ona nosi crvenu haljinu"
+        "text": "Ona nosi crvenu haljinu",
+        "ipa": "ˈona ˈnosi ˈtsr̩ʋenu ˈxaʎinu"
       }
     },
     {
@@ -3066,7 +3318,8 @@
         "text": "Wir haben eine Besprechung um zehn Uhr"
       },
       "hr": {
-        "text": "Imamo sastanak u deset sati"
+        "text": "Imamo sastanak u deset sati",
+        "ipa": "ˈimamo ˈsastanak u ˈdeset ˈsati"
       }
     },
     {
@@ -3078,7 +3331,8 @@
         "text": "Das Gebäude ist sehr hoch"
       },
       "hr": {
-        "text": "Zgrada je vrlo visoka"
+        "text": "Zgrada je vrlo visoka",
+        "ipa": "ˈzɡrada je ˈʋr̩lo ˈʋisoka"
       }
     },
     {
@@ -3090,7 +3344,8 @@
         "text": "Ich muss ins Geschäft gehen"
       },
       "hr": {
-        "text": "Trebam ići u trgovinu"
+        "text": "Trebam ići u trgovinu",
+        "ipa": "ˈtrebam ˈitɕi u ˈtr̩ɡoʋinu"
       }
     },
     {
@@ -3102,7 +3357,8 @@
         "text": "Mein Freund lebt in Deutschland"
       },
       "hr": {
-        "text": "Moj prijatelj živi u Njemačkoj"
+        "text": "Moj prijatelj živi u Njemačkoj",
+        "ipa": "moj ˈprijateʎ ˈʒiʋi u ˈɲematʃkoj"
       }
     },
     {
@@ -3114,7 +3370,8 @@
         "text": "Die wirtschaftliche Situation hat sich bedeutend verbessert"
       },
       "hr": {
-        "text": "Gospodarska situacija se značajno poboljšala"
+        "text": "Gospodarska situacija se značajno poboljšala",
+        "ipa": "ˈɡospodarska ˈsituatsija se ˈznatʃajno ˈpoboʎʃala"
       }
     },
     {
@@ -3126,7 +3383,8 @@
         "text": "Die Wissenschaftler sind zu einer wichtigen Entdeckung gekommen"
       },
       "hr": {
-        "text": "Znanstvenici su došli do važnog otkrića"
+        "text": "Znanstvenici su došli do važnog otkrića",
+        "ipa": "ˈznanstʋenitsi su ˈdoʃli do ˈʋaʒnoɡ ˈotkritɕa"
       }
     },
     {
@@ -3138,7 +3396,8 @@
         "text": "Die Gesellschaft muss die Verantwortung für die Zukunft übernehmen"
       },
       "hr": {
-        "text": "Društvo mora preuzeti odgovornost za budućnost"
+        "text": "Društvo mora preuzeti odgovornost za budućnost",
+        "ipa": "ˈdruʃtʋo ˈmora ˈpreuzeti ˈodɡoʋornost za ˈbudutɕnost"
       }
     },
     {
@@ -3150,7 +3409,8 @@
         "text": "Seine Erfahrung ist entscheidend für unseren Erfolg"
       },
       "hr": {
-        "text": "Njegovo iskustvo je ključno za naš uspjeh"
+        "text": "Njegovo iskustvo je ključno za naš uspjeh",
+        "ipa": "ˈɲeɡoʋo ˈiskustʋo je ˈkʎutʃno za naʃ ˈuspjex"
       }
     },
     {
@@ -3162,7 +3422,8 @@
         "text": "Es gibt keine einfache Lösung für dieses Problem"
       },
       "hr": {
-        "text": "Ne postoji jednostavno rješenje za ovaj problem"
+        "text": "Ne postoji jednostavno rješenje za ovaj problem",
+        "ipa": "ne ˈpostoji ˈjednostaʋno ˈr̩jeʃeɲe za ˈoʋaj ˈproblem"
       }
     },
     {
@@ -3174,7 +3435,8 @@
         "text": "Die Regierung hat ein neues Steuergesetz erlassen"
       },
       "hr": {
-        "text": "Vlada je donijela novi zakon o porezima"
+        "text": "Vlada je donijela novi zakon o porezima",
+        "ipa": "ˈʋlada je ˈdonijela ˈnoʋi ˈzakon o ˈporezima"
       }
     },
     {
@@ -3186,7 +3448,8 @@
         "text": "Ihr Verhalten löste tiefe Enttäuschung aus"
       },
       "hr": {
-        "text": "Njeno ponašanje izazvalo je duboko razočaranje"
+        "text": "Njeno ponašanje izazvalo je duboko razočaranje",
+        "ipa": "ˈɲeno ˈponaʃaɲe ˈizazʋalo je ˈduboko ˈrazotʃaraɲe"
       }
     },
     {
@@ -3198,7 +3461,8 @@
         "text": "Die Entwicklung der Technologie verändert unser tägliches Leben"
       },
       "hr": {
-        "text": "Razvoj tehnologije mijenja naš svakodnevni život"
+        "text": "Razvoj tehnologije mijenja naš svakodnevni život",
+        "ipa": "ˈrazʋoj ˈtexnoloɡije ˈmijeɲa naʃ ˈsʋakodneʋni ˈʒiʋot"
       }
     },
     {
@@ -3210,7 +3474,8 @@
         "text": "Gerechtigkeit kann manchmal sehr langsam sein"
       },
       "hr": {
-        "text": "Pravda ponekad može biti vrlo spora"
+        "text": "Pravda ponekad može biti vrlo spora",
+        "ipa": "ˈpraʋda ˈponekad ˈmoʒe ˈbiti ˈʋr̩lo ˈspora"
       }
     },
     {
@@ -3222,7 +3487,8 @@
         "text": "Nachhaltigkeit ist die größte Herausforderung unserer Zeit"
       },
       "hr": {
-        "text": "Održivost je najveći izazov našeg vremena"
+        "text": "Održivost je najveći izazov našeg vremena",
+        "ipa": "ˈodr̩ʒiʋost je ˈnajʋetɕi ˈizazoʋ ˈnaʃeɡ ˈʋremena"
       }
     },
     {
@@ -3234,7 +3500,8 @@
         "text": "Die Wahrheit ist oft komplexer als wir denken"
       },
       "hr": {
-        "text": "Istina je često složenija nego što mislimo"
+        "text": "Istina je često složenija nego što mislimo",
+        "ipa": "ˈistina je ˈtʃesto ˈsloʒenija ˈneɡo ʃto ˈmislimo"
       }
     },
     {
@@ -3246,7 +3513,8 @@
         "text": "Ehrlichkeit ist das Fundament jeder guten Beziehung"
       },
       "hr": {
-        "text": "Iskrenost je temelj svakog dobrog odnosa"
+        "text": "Iskrenost je temelj svakog dobrog odnosa",
+        "ipa": "ˈiskrenost je ˈtemeʎ ˈsʋakoɡ ˈdobroɡ ˈodnosa"
       }
     },
     {
@@ -3258,7 +3526,8 @@
         "text": "Das Unternehmen plant seinen Markt zu erweitern"
       },
       "hr": {
-        "text": "Tvrtka planira proširiti svoje tržište"
+        "text": "Tvrtka planira proširiti svoje tržište",
+        "ipa": "ˈtʋr̩tka ˈplanira ˈproʃiriti ˈsʋoje ˈtr̩ʒiʃte"
       }
     },
     {
@@ -3270,7 +3539,8 @@
         "text": "Ich habe ernsthafte Zweifel bezüglich dieses Plans"
       },
       "hr": {
-        "text": "Imam ozbiljne sumnje u vezi tog plana"
+        "text": "Imam ozbiljne sumnje u vezi tog plana",
+        "ipa": "ˈimam ˈozbiʎne ˈsumɲe u ˈʋezi toɡ ˈplana"
       }
     },
     {
@@ -3282,7 +3552,8 @@
         "text": "Wir müssen uns an diese neuen Umstände anpassen"
       },
       "hr": {
-        "text": "Moramo se prilagoditi ovim novim okolnostima"
+        "text": "Moramo se prilagoditi ovim novim okolnostima",
+        "ipa": "ˈmoramo se ˈprilaɡoditi ˈoʋim ˈnoʋim ˈokolnostima"
       }
     },
     {
@@ -3294,7 +3565,8 @@
         "text": "Jeder Bürger hat das Recht auf freie Meinungsäußerung"
       },
       "hr": {
-        "text": "Svaki građanin ima pravo na slobodu govora"
+        "text": "Svaki građanin ima pravo na slobodu govora",
+        "ipa": "ˈsʋaki ˈɡradʑanin ˈima ˈpraʋo na ˈslobodu ˈɡoʋora"
       }
     },
     {
@@ -3306,7 +3578,8 @@
         "text": "Wissen ist die mächtigste Waffe die wir haben"
       },
       "hr": {
-        "text": "Znanje je najmoćnije oružje koje imamo"
+        "text": "Znanje je najmoćnije oružje koje imamo",
+        "ipa": "ˈznaɲe je ˈnajmotɕnije ˈoruʒje ˈkoje ˈimamo"
       }
     },
     {
@@ -3318,7 +3591,8 @@
         "text": "Wir müssen aus unseren vergangenen Fehlern lernen"
       },
       "hr": {
-        "text": "Moramo učiti iz naših prošlih grešaka"
+        "text": "Moramo učiti iz naših prošlih grešaka",
+        "ipa": "ˈmoramo ˈutʃiti iz ˈnaʃix ˈproʃlix ˈɡreʃaka"
       }
     },
     {
@@ -3330,7 +3604,8 @@
         "text": "Es war nur ein unglaublicher Zufall"
       },
       "hr": {
-        "text": "Bio je to samo nevjerojatan splet okolnosti"
+        "text": "Bio je to samo nevjerojatan splet okolnosti",
+        "ipa": "ˈbio je to ˈsamo ˈneʋjerojatan splet ˈokolnosti"
       }
     },
     {
@@ -3342,7 +3617,8 @@
         "text": "Ihr Hauptziel ist die Erreichung eines dauerhaften Friedens"
       },
       "hr": {
-        "text": "Njihov glavni cilj je postizanje trajnog mira"
+        "text": "Njihov glavni cilj je postizanje trajnog mira",
+        "ipa": "ˈɲixoʋ ˈɡlaʋni tsiʎ je ˈpostizaɲe ˈtrajnoɡ ˈmira"
       }
     },
     {
@@ -3354,7 +3630,8 @@
         "text": "Internationale Zusammenarbeit ist von entscheidender Bedeutung"
       },
       "hr": {
-        "text": "Međunarodna suradnja je od ključne važnosti"
+        "text": "Međunarodna suradnja je od ključne važnosti",
+        "ipa": "ˈmedʑunarodna ˈsuradɲa je od ˈkʎutʃne ˈʋaʒnosti"
       }
     },
     {
@@ -3366,7 +3643,8 @@
         "text": "Die Investition in dieses Projekt stellt ein großes Risiko dar"
       },
       "hr": {
-        "text": "Ulaganje u taj projekt predstavlja veliki rizik"
+        "text": "Ulaganje u taj projekt predstavlja veliki rizik",
+        "ipa": "ˈulaɡaɲe u taj ˈprojekt ˈpredstaʋʎa ˈʋeliki ˈrizik"
       }
     },
     {
@@ -3378,7 +3656,8 @@
         "text": "Moderne Kunst ruft oft unterschiedliche Reaktionen hervor"
       },
       "hr": {
-        "text": "Moderna umjetnost često izaziva različite reakcije"
+        "text": "Moderna umjetnost često izaziva različite reakcije",
+        "ipa": "ˈmoderna ˈumjetnost ˈtʃesto ˈizaziʋa ˈrazlitʃite ˈreaktsije"
       }
     },
     {
@@ -3390,7 +3669,8 @@
         "text": "Das war die schwerste Entscheidung in meinem Leben"
       },
       "hr": {
-        "text": "To je bila najteža odluka u mom životu"
+        "text": "To je bila najteža odluka u mom životu",
+        "ipa": "to je ˈbila ˈnajteʒa ˈodluka u mom ˈʒiʋotu"
       }
     },
     {
@@ -3402,7 +3682,8 @@
         "text": "Ein Interessenkonflikt erschwert das Erreichen eines Abkommens"
       },
       "hr": {
-        "text": "Sukob interesa otežava postizanje sporazuma"
+        "text": "Sukob interesa otežava postizanje sporazuma",
+        "ipa": "ˈsukob ˈinteresa ˈoteʒaʋa ˈpostizaɲe ˈsporazuma"
       }
     },
     {
@@ -3414,7 +3695,8 @@
         "text": "Wir haben alle bisherigen Hindernisse erfolgreich überwunden"
       },
       "hr": {
-        "text": "Uspješno smo savladali sve dosadašnje prepreke"
+        "text": "Uspješno smo savladali sve dosadašnje prepreke",
+        "ipa": "ˈuspjeʃno smo ˈsaʋladali sʋe ˈdosadaʃɲe ˈprepreke"
       }
     },
     {
@@ -3426,7 +3708,8 @@
         "text": "Das Gesundheitssystem erfordert dringende Reformen"
       },
       "hr": {
-        "text": "Zdravstveni sustav zahtijeva hitne reforme"
+        "text": "Zdravstveni sustav zahtijeva hitne reforme",
+        "ipa": "ˈzdraʋstʋeni ˈsustaʋ ˈzaxtijeʋa ˈxitne ˈreforme"
       }
     },
     {
@@ -3438,7 +3721,8 @@
         "text": "Unser Unterbewusstsein beeinflusst unsere Entscheidungen stark"
       },
       "hr": {
-        "text": "Naša podsvijest snažno utječe na naše odluke"
+        "text": "Naša podsvijest snažno utječe na naše odluke",
+        "ipa": "ˈnaʃa ˈpodsʋijest ˈsnaʒno ˈutjetʃe na ˈnaʃe ˈodluke"
       }
     },
     {
@@ -3450,7 +3734,8 @@
         "text": "Niemand kann genau vorhersagen was die Zukunft bringt"
       },
       "hr": {
-        "text": "Nitko ne može točno predvidjeti što donosi budućnost"
+        "text": "Nitko ne može točno predvidjeti što donosi budućnost",
+        "ipa": "ˈnitko ne ˈmoʒe ˈtotʃno ˈpredʋidjeti ʃto ˈdonosi ˈbudutɕnost"
       }
     },
     {
@@ -3462,7 +3747,8 @@
         "text": "Sie können außerordentlich stolz auf Ihre Errungenschaften sein"
       },
       "hr": {
-        "text": "Možete biti iznimno ponosni na svoja postignuća"
+        "text": "Možete biti iznimno ponosni na svoja postignuća",
+        "ipa": "ˈmoʒete ˈbiti ˈiznimno ˈponosni na ˈsʋoja ˈpostiɡnutɕa"
       }
     }
   ]
